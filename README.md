@@ -1,15 +1,13 @@
 # uk.co.mountev.caseactivitylisting
 
-![Screenshot](/images/screenshot.png)
-
-(*FIXME: In one or two paragraphs, describe what the extension does and why one would download it. *)
+Customizations related to Case Activities Listing datatable.
 
 The extension is licensed under [AGPL-3.0](LICENSE.txt).
 
 ## Requirements
 
 * PHP v5.6+
-* CiviCRM (*FIXME: Version number*)
+* CiviCRM v5.0+
 
 ## Installation (Web UI)
 
@@ -34,11 +32,3 @@ install it with the command-line tool [cv](https://github.com/civicrm/cv).
 git clone https://github.com/FIXME/uk.co.mountev.caseactivitylisting.git
 cv en caseactivitylisting
 ```
-
-## Usage
-
-(* FIXME: Where would a new user navigate to get started? What changes would they see? *)
-
-## Known Issues
-
-(* FIXME *)
